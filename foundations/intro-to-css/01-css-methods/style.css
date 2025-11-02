@@ -1,0 +1,9 @@
+* {
+    font-family: monospace;
+}
+
+#div-ext{
+    color: white;
+    background-color: red;
+    text-align: center;
+}
