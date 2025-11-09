@@ -1,1 +1,9 @@
-/* Add CSS Styling */
+* {
+    font-family: monospace;
+    font-size: 28px;
+}
+.container .text {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
