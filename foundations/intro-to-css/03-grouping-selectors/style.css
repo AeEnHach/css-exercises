@@ -4,10 +4,10 @@
     font-family: monospace;
     font-size: 28px;
 }
-button1 {
+.button1 {
     background-color: black;
     color: white;
 }
-button2 {
+.button2 {
     background-color: yellow;
 }
